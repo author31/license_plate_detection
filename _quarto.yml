@@ -17,8 +17,6 @@ format:
 website:
   title: "License Plate Detection"
   description: "Builidng a license plate detector from scratch"
-  execute: 
-    enabled: false
   twitter-card: true
   open-graph: true
   reader-mode: true
