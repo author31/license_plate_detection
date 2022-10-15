@@ -3,7 +3,7 @@
 d = { 'settings': { 'branch': 'master',
                 'doc_baseurl': '/license_plate_detection/',
                 'doc_host': 'https://author31.github.io',
-                'git_url': 'https://github.com/author31//',
+                'git_url': 'https://github.com/author31/license_plate_detection/',
                 'lib_path': 'license_plate_detection'},
   'syms': { 'license_plate_detection.bbox_utils': {},
             'license_plate_detection.fpn': { 'license_plate_detection.fpn.FPN': ('fpn.html#fpn', 'license_plate_detection/fpn.py'),
