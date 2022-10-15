@@ -1,0 +1,14 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - 01_fpn.ipynb
+      - base.ipynb
+      - loss.base.ipynb
+      - loss.faster_rcnn_loss.ipynb
+      - loss.roi_loss.ipynb
+      - loss.rpn_loss.ipynb
+      - model.detector.ipynb
+      - model.roi.ipynb
+      - model.rpn.ipynb
+      - utils.ipynb
